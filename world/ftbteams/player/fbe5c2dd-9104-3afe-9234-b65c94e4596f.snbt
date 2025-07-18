@@ -1,0 +1,17 @@
+{
+	id: "fbe5c2dd-9104-3afe-9234-b65c94e4596f"
+	type: "player"
+	player_name: "Frostbitezq"
+	ranks: {
+		fbe5c2dd-9104-3afe-9234-b65c94e4596f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Frostbitezq"
+		"ftbteams:description": ""
+		"ftbteams:color": "#66FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

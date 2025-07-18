@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "fbe5c2dd91043afe9234b65c94e4596f"
+	name: "Frostbitezq#fbe5c2dd"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
