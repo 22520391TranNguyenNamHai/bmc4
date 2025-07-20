@@ -1,0 +1,31 @@
+{
+	id: "4eb92a3d-685e-43e0-b05a-201243b27b13"
+	type: "party"
+	owner: "f2b9950e-825f-3ef7-a6be-85e2f53d678c"
+	ranks: {
+		56d80d4a-4a51-39da-85fe-b039f7e02f5e: "member"
+		f2b9950e-825f-3ef7-a6be-85e2f53d678c: "owner"
+		46ee261b-1a22-31d2-ba38-d2196259e65b: "member"
+		3eaf9c5f-110c-366f-bb65-3f0a4ff52881: "member"
+		5626b921-46f8-31d4-a91b-497858937f62: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Skibidi Team"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFF3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752920079272L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Anonmouse\"}]}" }
+		{ from: "f2b9950e-825f-3ef7-a6be-85e2f53d678c", date: 1752920121271L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"GrayWolf\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752920126943L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"GrayWolf\"}]}" }
+		{ from: "f2b9950e-825f-3ef7-a6be-85e2f53d678c", date: 1752920130106L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Memev0v\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752920134763L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Memev0v\"}]}" }
+		{ from: "f2b9950e-825f-3ef7-a6be-85e2f53d678c", date: 1752925205709L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"secgay\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752925209113L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"secgay\"}]}" }
+		{ from: "f2b9950e-825f-3ef7-a6be-85e2f53d678c", date: 1752996219732L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ThoSanTreEm\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752996224272L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ThoSanTreEm\"}]}" }
+	]
+	extra: { }
+}
