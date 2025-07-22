@@ -9427,9 +9427,9 @@
     },
     "done": true
   },
-  "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
+  "aether:recipes/combat/diamond_gloves_repairing": {
     "criteria": {
-      "has_granite": "2025-07-22 15:02:12 +0700"
+      "has_diamond_gloves": "2025-07-22 14:05:06 +0700"
     },
     "done": true
   },
@@ -9438,6 +9438,48 @@
       "minecraft:soul_sand_valley": "2025-07-22 14:25:33 +0700"
     },
     "done": false
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-07-22 14:25:33 +0700"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-22 14:35:02 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-22 14:35:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-22 14:35:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-22 14:35:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-22 14:35:02 +0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-07-22 15:02:12 +0700"
+    },
+    "done": true
   },
   "stoneworks:recipes/building_blocks/cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
@@ -9460,24 +9502,6 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 15:02:12 +0700"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flint_block": {
-    "criteria": {
-      "has_flint": "2025-07-22 15:03:24 +0700"
-    },
-    "done": true
-  },
-  "netherexp:nether/soul_sand_valley": {
-    "criteria": {
-      "condition": "2025-07-22 14:25:33 +0700"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
-    "criteria": {
-      "has_item": "2025-07-22 15:12:21 +0700"
     },
     "done": true
   },
@@ -9505,12 +9529,6 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
-    "criteria": {
-      "has_blaze_rod": "2025-07-22 14:35:02 +0700"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/granite_paver_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 15:02:12 +0700"
@@ -9526,24 +9544,6 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-07-22 15:02:12 +0700"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_slab": {
-    "criteria": {
-      "has_item": "2025-07-22 15:12:21 +0700"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
-    "criteria": {
-      "has_item": "2025-07-22 15:12:21 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-07-22 15:03:24 +0700"
     },
     "done": true
   },
@@ -9577,21 +9577,9 @@
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
-    "criteria": {
-      "has_item": "2025-07-22 15:12:21 +0700"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/granite_shingle_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 15:02:12 +0700"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_chestplate_repairing": {
-    "criteria": {
-      "has_netherite_chestplate": "2025-07-22 16:09:31 +0700"
     },
     "done": true
   },
@@ -9601,27 +9589,9 @@
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/rhyolite_wall": {
-    "criteria": {
-      "has_item": "2025-07-22 15:12:21 +0700"
-    },
-    "done": true
-  },
-  "betternether:recipes/brewing/nether_brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-07-22 14:35:02 +0700"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/granite_paver_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 15:02:12 +0700"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_gloves_repairing": {
-    "criteria": {
-      "has_diamond_gloves": "2025-07-22 14:05:06 +0700"
     },
     "done": true
   },
@@ -9637,18 +9607,6 @@
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/polished_rhyolite": {
-    "criteria": {
-      "has_item": "2025-07-22 15:12:21 +0700"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_stairs": {
-    "criteria": {
-      "has_item": "2025-07-22 15:12:21 +0700"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 15:02:12 +0700"
@@ -9661,27 +9619,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_sword_repairing": {
-    "criteria": {
-      "has_netherite_sword": "2025-07-22 16:09:23 +0700"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
-    "criteria": {
-      "has_item": "2025-07-22 15:12:21 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 15:02:12 +0700"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-07-22 14:35:02 +0700"
     },
     "done": true
   },
@@ -9709,12 +9649,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-07-22 16:07:12 +0700"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 15:02:12 +0700"
@@ -9733,21 +9667,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-07-22 14:35:02 +0700"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 15:02:12 +0700"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
-    "criteria": {
-      "has_item": "2025-07-22 15:12:21 +0700"
     },
     "done": true
   },
@@ -9811,12 +9733,6 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_fletching_table": {
-    "criteria": {
-      "has_flint": "2025-07-22 15:03:24 +0700"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/granite_brick_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 15:02:12 +0700"
@@ -9841,15 +9757,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-07-22 14:35:02 +0700"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-22 15:02:12 +0700"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-07-22 15:03:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-22 15:03:24 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-22 15:03:24 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-22 15:12:21 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-07-22 15:12:21 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-22 15:12:21 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-22 15:12:21 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-07-22 15:12:21 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-07-22 15:12:21 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-07-22 15:12:21 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-22 15:12:21 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-22 15:12:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-22 16:07:12 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-07-22 16:09:23 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-07-22 16:09:31 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-07-22 20:58:18 +0700"
     },
     "done": true
   },
